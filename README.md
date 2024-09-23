@@ -6,13 +6,13 @@ The Ecommerce Sales Dashboard Power BI project is designed to provide deep insig
 
 Features of the Ecommerce Sales DashboardSales -
 
-Sales Overview:Visualizes key metrics such as total sales, total orders, and average order value
+Sales Overview : Visualizes key metrics such as total sales, total orders, and average order value
 
-Customer Insights:Displays customer demographics (age, gender, location).Analyzes customer purchase behavior (average purchase frequency, repeat vs new customers).
+Customer Insights : Displays customer demographics (age, gender, location).Analyzes customer purchase behavior (average purchase frequency, repeat vs new customers).
 
-Time-Based Analysis:Provides time series analysis, showing sales by day, week, month, quarter, and year.Identifies peak sales periods and off-seasons.
+Time-Based Analysis : Provides time series analysis, showing sales by day, week, month, quarter, and year.Identifies peak sales periods and off-seasons.
 
-Interactive Filters and Slicers:Offers dynamic filtering of data by region, product, customer type, or time period.Enhances user experience through interactive and customizable views.
+Interactive Filters and Slicers : Offers dynamic filtering of data by region, product, customer type, or time period.Enhances user experience through interactive and customizable views.
 
 Learning -
 
